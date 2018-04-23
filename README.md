@@ -1,4 +1,7 @@
 # redesigned-sniffle
+
 ### Hello world!
-### Test 
-## Another Test 1
+
+### Test
+
+## Another Test 2
